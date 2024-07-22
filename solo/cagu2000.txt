@@ -1,4 +1,4 @@
-# Haiku 
+### This is an intentional conflict with your solo file. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.
 
 Right at my feet!
 When did you arrive here,
